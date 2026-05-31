@@ -2,9 +2,9 @@
 import { KeyVisual, StoreInfoType } from "../types";
 
 export const keyVisuals: KeyVisual[] = [
-  { id: 1, imageUrl: "../public/images/kv/kv-01.jpg", alt: "パン1" },
-  { id: 2, imageUrl: "../public/images/kv/kv-02.jpg", alt: "パン2" },
-  { id: 3, imageUrl: "../public/images/kv/kv-03.jpg", alt: "パン3" },
+  { id: 1, imageUrl: "/images/kv/kv-01.jpg", alt: "パン1" },
+  { id: 2, imageUrl: "/images/kv/kv-02.jpg", alt: "パン2" },
+  { id: 3, imageUrl: "/images/kv/kv-03.jpg", alt: "パン3" },
 ];
 
 export const storeInfo: StoreInfoType = {
