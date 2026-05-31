@@ -8,7 +8,7 @@ export const keyVisuals: KeyVisual[] = [
 ];
 
 export const storeInfo: StoreInfoType = {
-  name: "énaPain",
+  name: "éna pain",
   address: "東京都西東京市東町2丁目16-24",
   phone: "03-1234-5678",
   instagram: "https://www.instagram.com/enapain/",

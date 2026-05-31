@@ -21,8 +21,8 @@ const products: ProductHighlight[] = [
       "季節のフルーツを使ったデニッシュ。素材の味を大切にしたシンプルな仕上がりです。",
   },
   {
-    name: "T-Baquette",
-    image: "images/T-baquette_top.JPG",
+    name: "T-Baguette",
+    image: "images/T-baguette_top.JPG",
     description:
       "複数の小麦をブレンドし、一晩かけて低温発酵させた生地を使っています。ゆっくりと発酵させることで、小麦本来の甘みと香ばしさをしっかり引き出しました。噛むほどに味わい深い、素材の味を楽しめる一本です。",
   },
